@@ -67,12 +67,14 @@ const MovieDetails = ({ movie, onClose }) => {
                         <div className="flex flex-wrap gap-2 mt-2">
 
                             {movie.genres?.map((genre) => (
+
                                 <span
                                     key={genre}
                                     className="badge badge-primary"
                                 >
                                     {genre}
                                 </span>
+
                             ))}
 
                         </div>

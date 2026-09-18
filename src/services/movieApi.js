@@ -11,6 +11,7 @@ export const getMovies = async () => {
     const data = await result.json();
 
     return data;
+
 };
 
 
@@ -29,4 +30,5 @@ export const searchMovies = async (query) => {
     const movies = data.map((item) => item.show);
 
     return movies;
+
 };
