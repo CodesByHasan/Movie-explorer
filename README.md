@@ -6,6 +6,10 @@ Movie Explorer is a React-based web application powered by the TVMaze API. Users
 🔗 Live Website: https://movie-explorer-zeta-one.vercel.app/
 🔗 GitHub Repository: https://github.com/CodesByHasan/Movie-explorer.git
 
+📸 Preview / Screenshot
+<img width="1907" height="874" alt="Screenshot 2026-09-25 at 8 01 11 PM" src="https://github.com/user-attachments/assets/627ba416-08f4-435b-8349-04af2b67c187" />
+
+
 ✨ Features
 * 🎬 Browse movies and TV shows
 * 🔍 Search movies/shows by title
